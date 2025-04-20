@@ -2,229 +2,229 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="TR KANALLAR",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"  group-title="TR KANALLAR",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png"  group-title="TR KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png"  group-title="TR KANALLAR",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png"  group-title="TR KANALLAR",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png"  group-title="TR KANALLAR",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr"  group-title="TR KANALLAR",NOW
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=s3ZjiaWsy-fFzGPjQsS-3Q&e=1745154869
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png"  group-title="TR KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png"  group-title="TR KANALLAR",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png", TRT Belgesel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png"  group-title="TR KANALLAR", TRT Belgesel
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8 BUÇUK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png"  group-title="TR KANALLAR",TV8 BUÇUK
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png"  group-title="TR KANALLAR",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="TR KANALLAR",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="TR KANALLAR",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="TR KANALLAR",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="TR KANALLAR",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="TR KANALLAR",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="TR KANALLAR",TLC TR
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="TR KANALLAR",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="TR HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg" group-title="TR HABER",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png",NTV
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/YWsrfZx/ntv.png" group-title="TR HABER",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/ntv.m3u8
 
-#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png",24 TV
+#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2v2W5g1/24.png" group-title="TR HABER",24 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="TR HABER",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="TR HABER",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="TR HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="TR HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png",TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="TR ÇOCUK / SPOR",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="TR ÇOCUK / SPOR",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png",DİYANET ÇOCUK TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png" group-title="TR ÇOCUK / SPOR",DİYANET ÇOCUK TV
 https://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="TR ÇOCUK / SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="TR ÇOCUK / SPOR",FENERBAHÇE TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="TR ÇOCUK / SPOR",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="TR ÇOCUK / SPOR",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="TR ÇOCUK / SPOR",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="TR ÇOCUK / SPOR",TRT SPOR [geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR [geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="TR ÇOCUK / SPOR",TRT SPOR [geo-blocked]
 https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png",TRT SPOR2 YILDIZ [geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="TR ÇOCUK / SPOR",TRT SPOR2 YILDIZ [geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 1 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 1 [geoblocked]
 https://tabii-spor.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 2 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 2 [geoblocked]
 https://tabii-spor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 3 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 3 [geoblocked]
 https://tabii-spor3.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 4 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 4 [geoblocked]
 https://tabii-spor4.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 5 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 5 [geoblocked]
 https://tabii-spor5.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png",TABİİ SPOR 6 [geoblocked]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBDCT7q/tabii.png" group-title="TR ÇOCUK / SPOR",TABİİ SPOR 6 [geoblocked]
 https://tabii-spor6.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="FR GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="FR GÉNÉRALISTE",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="FR GÉNÉRALISTE",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="FR GÉNÉRALISTE",FRANCE 3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="FR GÉNÉRALISTE",FRANCE 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="FR GÉNÉRALISTE",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="FR GÉNÉRALISTE",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png",FRANCE TV DOCUMENTAIRES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="FR GÉNÉRALISTE",FRANCE TV DOCUMENTAIRES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="FR GÉNÉRALISTE",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE -0,5H
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="FR GÉNÉRALISTE",ARTE -0,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="FR GÉNÉRALISTE",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="FR GÉNÉRALISTE",CANAL+ EN CLAIR
 https://hls-m005.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="FR GÉNÉRALISTE",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png" group-title="FR GÉNÉRALISTE",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="FR GÉNÉRALISTE",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="FR GÉNÉRALISTE",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="FR GÉNÉRALISTE",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE MOYEN-ORIENT [geo-area]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png" group-title="FR GÉNÉRALISTE",TV5MONDE MOYEN-ORIENT [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE ASIE SUD-EST [geo-area]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png" group-title="FR GÉNÉRALISTE",TV5MONDE ASIE SUD-EST [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png" group-title="FR GÉNÉRALISTE",TV5MONDE PACIFIQUE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="FR GÉNÉRALISTE",CANAL+ EN CLAIR (backup)
 https://hls-m005.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" user-agent="SmartOs Tv",CHÉRIE 25 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/cherie25.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="FR GÉNÉRALISTE",W9 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="FR GÉNÉRALISTE",W9 [drm-keycrypted]
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [drm-keycrypted]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="FR GÉNÉRALISTE",6TER [drm-keycrypted]
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12 [OUT]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FR GÉNÉRALISTE",NRJ 12 [OUT]
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" user-agent="SmartOs Tv",NRJ 12 [OUT]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/nrj12.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="FR GÉNÉRALISTE",C8 [OUT]
 https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png" group-title="FR GÉNÉRALISTE",C8 [OUT]
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/C8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="FR GÉNÉRALISTE",CSTAR (backup)
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="FR GÉNÉRALISTE",TF1 (backup)
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="FR GÉNÉRALISTE",TF1 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="FR GÉNÉRALISTE",TF1 (backup)
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="FR GÉNÉRALISTE",TF1 (backup)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="FR GÉNÉRALISTE",FRANCE 2 (backup)
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="FR GÉNÉRALISTE",FRANCE 2 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="FR GÉNÉRALISTE",FRANCE 3 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png" group-title="FR GÉNÉRALISTE",FRANCE 4 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png" group-title="FR GÉNÉRALISTE",FRANCE 5 (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="FR GÉNÉRALISTE",ARTE (backup)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/" group-title="FR GÉNÉRALISTE",W9 (test)
 https://joaquinito02.es/vavoo/128046615.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 (backup)
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 (backup)
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 (backup)
 https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts?extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="FR GÉNÉRALISTE",M6 (test)
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (check)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" group-title="FR GÉNÉRALISTE",W9 (check)
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="FR INFORMATION",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="FR INFORMATION",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="FR INFORMATION",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
