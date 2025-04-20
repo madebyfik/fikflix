@@ -5,9 +5,6 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
@@ -32,18 +29,24 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png", TRT Belgesel
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8 BUÇUK
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png",SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-
 
 #EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://i.ibb.co/y0M3rf6/tvnet.jpg",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -56,9 +59,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
