@@ -5,6 +5,19 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-language="Turkish" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png",ATV Avrupa
